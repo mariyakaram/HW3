@@ -1,0 +1,14 @@
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/bin/Debug/net7.0/sample3
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/bin/Debug/net7.0/sample3.deps.json
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/bin/Debug/net7.0/sample3.runtimeconfig.json
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/bin/Debug/net7.0/sample3.dll
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/bin/Debug/net7.0/sample3.pdb
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.AssemblyInfoInputs.cache
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.AssemblyInfo.cs
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.dll
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/refint/sample3.dll
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.pdb
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/sample3.genruntimeconfig.cache
+/Users/maria/Desktop/ Знакомство с языками программирования/HW3/sample3/obj/Debug/net7.0/ref/sample3.dll
