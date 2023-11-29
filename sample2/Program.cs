@@ -21,7 +21,7 @@ void PrintArray(int[] InMass)
      }
 }
 
-void FevenNumbers(int[] num) 
+void EvenNumbers(int[] num) 
 {
      int[] n = new int[num.Length];
      Console.WriteLine(); 
